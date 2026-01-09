@@ -37,7 +37,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Planning Checklist
 - [ ] Project kickoff held
+- [ ] All key stakeholders and personas aligned on roles and responsibilities
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Risk register updated with input from Business Analyst, QA Lead, and other key roles

@@ -10,6 +10,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
+- QA Lead oversees quality gates and test coverage in QA column
+- UX/UI Designer reviews user experience in In Review and Demo/Review stages
 - Pull Request workflow:
   - Small PRs (<= 400 lines when possible)
   - Include issue link and acceptance criteria in PR description
@@ -29,9 +31,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Use dashboards for key signals (errors, latency, usage)
 
 ## Blocker Escalation
-- Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
-- Level 3: Sponsor-level escalation for business-impacting issues
+- Level 1: Team-level triage in daily standup (involving PM, Scrum Master, QA Lead, and relevant personas)
+- Level 2: PM escalates to Product Lead, Product Owner, and dependent teams
+- Level 3: Sponsor-level escalation for business-impacting issues; Stakeholders notified
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo

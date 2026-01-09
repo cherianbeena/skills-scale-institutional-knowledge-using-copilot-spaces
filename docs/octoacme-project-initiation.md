@@ -24,13 +24,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Problem statement:
 - Objective / Goal (SMART):
 - Success metrics:
-- Primary stakeholders:
+- Primary stakeholders (include Product Owner, Scrum Master, Business Analyst, QA Lead, UX/UI Designer, Stakeholders):
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles (ensure all key personas are identified and responsibilities assigned):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] All key personas/roles identified and responsibilities assigned
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton

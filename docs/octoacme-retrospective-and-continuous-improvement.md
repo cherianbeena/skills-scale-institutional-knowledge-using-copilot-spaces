@@ -7,9 +7,9 @@ Capture learnings and convert them into actionable improvements.
 After each sprint, release, or important milestone. Also after incidents.
 
 ## Structure
-- What went well
-- What could be improved
-- Action items (owner, due date)
+- What went well (feedback from all key personas: Product Owner, Scrum Master, Business Analyst, QA Lead, UX/UI Designer, Stakeholders)
+- What could be improved (role-specific feedback encouraged)
+- Action items (owner, due date, assign to relevant personas)
 - Follow-up on previous action items
 
 ## Running a Retrospective
@@ -24,7 +24,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Example Action Item Template
 - Title:
 - Description:
-- Owner:
+- Owner (specify persona/role):
 - Due date:
 - Success criteria:
 
